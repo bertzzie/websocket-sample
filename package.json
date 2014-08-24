@@ -1,0 +1,13 @@
+{
+    "name": "WebSocketSample",
+    "version": "0.0.1",
+    "author": "Alex Xandra Albert Sim <bertzzie@gmail.com>",
+    "description": "A sample web socket server to be used on an article on my blog. Link pending.",
+    "devDependencies": {
+        "ws": "~0.4.32"
+    },
+    "license": "MIT",
+    "engine": {
+        "node": ">=0.10"
+    }
+}
